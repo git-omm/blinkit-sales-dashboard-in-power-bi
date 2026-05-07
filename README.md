@@ -95,3 +95,4 @@ Average customer rating for sold items.
 This dashboard helps businesses monitor sales performance, analyze customer behavior, and identify improvement opportunities through interactive and data-driven reporting.
 
 # Dashboard Preview
+https://github.com/git-omm/blinkit-sales-dashboard-in-power-bi/blob/main/Snapshot%20of%20dashboard.png
